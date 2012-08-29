@@ -21,6 +21,7 @@ gem 'jquery-rails', '2.0.2'
 
 group :test do
   gem 'capybara', '1.1.2'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 gem 'annotate', '2.5.0', group: :development
